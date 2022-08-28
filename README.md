@@ -1,0 +1,2 @@
+# GoLEntry-
+challenge in C
